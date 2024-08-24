@@ -7,7 +7,7 @@
 
 int main()
 {
-    int n,i,j;
+    int n;
     cin>>n;
     vector<int>v;
     int bsev=0;
